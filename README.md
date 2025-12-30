@@ -1,9 +1,8 @@
-# Kiram Rihawi
+<div align="center">
 
-```typescript
-const profile = {
-  name: "Kiram Rihawi",
-  bio: "Data Analyst & Data Scientist | Electrical Power First Honor Graduate
+# ✨ Kiram Rihawi ✨
+
+<p><em>Data Analyst & Data Scientist | Electrical Power First Honor Graduate
 
 I am a high-achieving Data Science and Generative AI professional pivoting from Electrical Engineering (GPA 4.92/5). I specialize in bridging the gap between complex engineering logic and actionable business intelligence. My work ranges from building privacy-focused Generative AI tools to advanced Data Science forecasting models for the KSA market.
 
@@ -21,80 +20,61 @@ GenAI Engineering: Developed on-premises RAG architectures using LangChain and L
 Business Intelligence: Created interactive Power BI dashboards to analyze billions in Saudi real estate transactions.
 
 
-",
-  currentWork: "Doing Final Touches for my power bi project",
-  learning: "Improving my foundation skills and enhance it  ",
-  skills: [
-    "PostgreSQL",
-    "Azure",
-    "GitHub Actions",
-    "Scikit-Learn",
-    "NumPy",
-    "Pandas",
-    "TensorFlow",
-    "Keras",
-    "Python"
-  ],
-}
-```
+</em></p>
+
+<hr>
+
+</div>
 
 ## 🔭 I'm currently working on
 
-Doing Final Touches for my power bi project
+<div align="center"><p>Doing Final Touches for my power bi project</p></div>
 
 ## 🌱 I'm currently learning
 
-Improving my foundation skills and enhance it  
+<div align="center"><p>Improving my foundation skills and enhance it  </p></div>
 
 ## 💻 Tech Stack
 
-```json
-{
-  "backend": [
-    "PostgreSQL"
-  ],
-  "devops": [
-    "Azure",
-    "GitHub Actions"
-  ],
-  "ai/ml": [
-    "Scikit-Learn",
-    "NumPy",
-    "Pandas",
-    "TensorFlow",
-    "Keras"
-  ],
-  "languages": [
-    "Python"
-  ]
-}
-```
+<div align="center">
+
+**⚙️ Backend**
+
+`PostgreSQL`
+
+**🚀 DevOps**
+
+`Azure` • `GitHub Actions`
+
+**🧠 AI/ML**
+
+`Scikit-Learn` • `NumPy` • `Pandas` • `TensorFlow` • `Keras`
+
+**💬 Languages**
+
+`Python`
+
+</div>
 
 ## 🌐 Socials
 
-```javascript
-const socials = {
-  github: "Marik-81",
-  linkedin: "https://www.linkedin.com/in/kiram-rihawi/",
-}
-```
+<div align="center">
 
-<div>
-<a href="https://www.linkedin.com/in/kiram-rihawi/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Marik-81"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
+<a href="https://github.com/Marik-81"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/kiram-rihawi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+
 </div>
 
 ## 📫 How to reach me
 
-```javascript
-const contact = {
-  email: "kiram.rihawi@outlook.com",
-  phone: "+966 536 567 943",
-}
-```
+<div align="center">
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+**Email:** kiram.rihawi@outlook.com
+**Phone:** +966 536 567 943
 
-process.exit(0); // Until next time 👋
-```
+</div>
+
+<div align="center">
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
+</div>
