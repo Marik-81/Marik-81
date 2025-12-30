@@ -1,6 +1,8 @@
-# Hi 👋, I'm Kiram Rihawi
+<div align="center">
 
-**Data Analyst & Data Scientist | Electrical Power First Honor Graduate
+# ✨ Kiram Rihawi ✨
+
+<p><em>Data Analyst & Data Scientist | Electrical Power First Honor Graduate
 
 I am a high-achieving Data Science and Generative AI professional pivoting from Electrical Engineering (GPA 4.92/5). I specialize in bridging the gap between complex engineering logic and actionable business intelligence. My work ranges from building privacy-focused Generative AI tools to advanced Data Science forecasting models for the KSA market.
 
@@ -18,56 +20,61 @@ GenAI Engineering: Developed on-premises RAG architectures using LangChain and L
 Business Intelligence: Created interactive Power BI dashboards to analyze billions in Saudi real estate transactions.
 
 
-**
+</em></p>
+
+<hr>
+
+</div>
 
 ## 🔭 I'm currently working on
 
-Doing Final Touches for my power bi project
+<div align="center"><p>Doing Final Touches for my power bi project</p></div>
 
 ## 🌱 I'm currently learning
 
-Improving my foundation skills and enhance it  
+<div align="center"><p>Improving my foundation skills and enhance it  </p></div>
 
 ## 💻 Tech Stack
 
-### ⚙️ Backend
+<div align="center">
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+**⚙️ Backend**
 
-### 🚀 DevOps
+`PostgreSQL`
 
-<img src="https://img.shields.io/badge/Azure-9370db?style=for-the-badge&logo=azure&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> 
+**🚀 DevOps**
 
-### 💬 Languages
+`Azure` • `GitHub Actions`
 
-<img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> 
+**🧠 AI/ML**
 
-### 🧠 AI/ML
+`Scikit-Learn` • `NumPy` • `Pandas` • `TensorFlow` • `Keras`
 
-<img src="https://img.shields.io/badge/Scikit-Learn-00CED1?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-00CED1?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-00CED1?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-00CED1?style=for-the-badge&logo=keras&logoColor=white" /> 
+**💬 Languages**
+
+`Python`
+
+</div>
 
 ## 🌐 Socials
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiram-rihawi/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Marik-81) 
+<a href="https://github.com/Marik-81"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/kiram-rihawi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 </div>
 
 ## 📫 How to reach me
 
-<div align="left">
+<div align="center">
 
-📧 **Email:** [kiram.rihawi@outlook.com](mailto:kiram.rihawi@outlook.com)
-
-📱 **Phone:** +966 536 567 943
+**Email:** kiram.rihawi@outlook.com
+**Phone:** +966 536 567 943
 
 </div>
 
----
-⭐️ From [Kiram Rihawi](https://github.com/Marik-81)
-
-<!-- Profile views counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Marik-81/count.svg" alt="Visitor Count" />
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
 </div>
