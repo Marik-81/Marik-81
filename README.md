@@ -4,7 +4,7 @@
 
 <p><em>Data Analyst & Data Scientist | Electrical Power First Honor Graduate
 
-I am a high-achieving Data Science and Generative AI professional pivoting from Electrical Engineering (GPA 4.92/5). I specialize in bridging the gap between complex engineering logic and actionable business intelligence. My work ranges from building privacy-focused Generative AI tools to advanced Data Science forecasting models for the KSA market.</em></p>
+I am a high-achieving Data Science and Generative AI professional pivoting from Electrical Power Technology (GPA 4.92/5). I specialize in bridging the gap between complex engineering logic and actionable business intelligence. My work ranges from building privacy-focused Generative AI tools to advanced Data Science forecasting models for the KSA market.</em></p>
 
 <hr>
 
